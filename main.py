@@ -1,4 +1,5 @@
-
+#Mario Cuevas Delgado
+#Jose Karim Sosa Perez
 import csv
 file = open("ArchivoNaive.csv")
 csvreader = csv.reader(file)
